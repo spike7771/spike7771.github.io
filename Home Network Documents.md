@@ -3,7 +3,7 @@ This document provides a detailed record of the physical layout, logical structu
 
 ## 1. Physical Topology
 Physical topology focuses on the physical locations of devices and the layout of their hardwired connections.
-<img src="download.png.png" alt="Topology" width="500">
+<img src="image/download.png" alt="Topology" width="500">
 1. __Network Topology Diagram__
    
     Below is the comprehensive visualization of the home network's physical topology, showing device locations, connections, and medium types.
