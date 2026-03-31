@@ -75,7 +75,7 @@ This document provides a detailed record of the physical layout, logical structu
       
 4. Network Storage (NAS / Storage)
    
-   1. Primary Storage: A 4TB Western Digital Blue HDD is hosted on the Desktop PC.
+   1. Primary Storage: A 2TB Samsung Digital Blue SSD is hosted on the Desktop PC.
    2. File Protocol: SMB (Server Message Block) is enabled, allowing the Work Laptop and Smart TV to access shared media and backup folders over the local network.
    3. Cloud Backup: Critical documents are synced from the PC to OneDrive/GitHub for off-site redundancy.
       
